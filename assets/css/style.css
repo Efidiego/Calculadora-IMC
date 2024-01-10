@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 
 :root {
-    --primary-color: rgb(7, 90, 129);
+    --primary-color: rgb(117, 164, 233);
     --primary-color-darker: rgb(5, 36, 51);
 }
 
@@ -15,7 +15,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: var(--primary-color);
+    background-image: linear-gradient(to right, #bdd7e9, #083263);
     font-family: 'open sans', sans-serif;
     font-size: 1.0em;
     line-height: 1.5em;
