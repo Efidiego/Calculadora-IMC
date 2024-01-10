@@ -25,11 +25,16 @@ body{
 .container{
     max-width: 640px;
     margin: 50px auto;
-    background: rgb(224, 245, 237);
+    background: white;
     padding: 20px;
     border-radius: 15px;
     
 
+}
+
+.img{
+    display: block;
+    max-width: 640px;
 }
 
 form input, form label, form button {
